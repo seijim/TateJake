@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WpfAppTateJake.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FontSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">72</Value>
+    </Setting>
+    <Setting Name="FontType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Meiryo UI</Value>
+    </Setting>
+    <Setting Name="AdjustedSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="FontWeight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">標準</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
